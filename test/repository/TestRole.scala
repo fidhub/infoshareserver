@@ -7,7 +7,7 @@ import org.scalatest.{GivenWhenThen, FeatureSpec}
  */
 class TestRole extends FeatureSpec with GivenWhenThen{
 
-  feature("") {
+  feature(" ") {
 
     info("")
     info("")
