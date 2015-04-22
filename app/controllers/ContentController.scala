@@ -25,5 +25,4 @@ object ContentController extends Controller {
       results.map(result =>
         Ok(Json.toJson(content)))
   }
-
 }
